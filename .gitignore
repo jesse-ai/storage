@@ -1,0 +1,10 @@
+/.vscode
+/.idea
+.DS_Store
+/.vagrant
+/venv
+.vscode
+/dist
+/build
+/*.egg-info
+/*.egg
